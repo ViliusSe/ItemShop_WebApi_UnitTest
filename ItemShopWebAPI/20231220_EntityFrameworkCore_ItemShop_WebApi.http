@@ -1,0 +1,6 @@
+@_20231220_EntityFrameworkCore_ItemShop_WebApi_HostAddress = http://localhost:5287
+
+GET {{_20231220_EntityFrameworkCore_ItemShop_WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

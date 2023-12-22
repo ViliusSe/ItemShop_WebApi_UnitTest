@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20231220_EntityFrameworkCore_ItemShop_WebApi", "ItemShopWebAPI\20231220_EntityFrameworkCore_ItemShop_WebApi.csproj", "{C5473B44-E3E4-462E-A45D-5C53CD772462}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ItemShopXUnitTest", "ItemShopXUnitTest\ItemShopXUnitTest.csproj", "{175C925B-9331-4899-B87C-9CDE76BEA6B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5473B44-E3E4-462E-A45D-5C53CD772462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5473B44-E3E4-462E-A45D-5C53CD772462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5473B44-E3E4-462E-A45D-5C53CD772462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5473B44-E3E4-462E-A45D-5C53CD772462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175C925B-9331-4899-B87C-9CDE76BEA6B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175C925B-9331-4899-B87C-9CDE76BEA6B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175C925B-9331-4899-B87C-9CDE76BEA6B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175C925B-9331-4899-B87C-9CDE76BEA6B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5363F9E4-38A0-45EE-B7A1-B05D02159C3B}
+	EndGlobalSection
+EndGlobal
